@@ -25,4 +25,3 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 # KODLUYORUZ
 [Patika.dev](https://www.patika.dev/tr)
-
